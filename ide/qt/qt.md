@@ -1,1 +1,5 @@
+../qt
+../src
+../tools
+../include
 
